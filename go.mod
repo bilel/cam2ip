@@ -1,4 +1,4 @@
-module github.com/gen2brain/cam2ip
+module github.com/bilel/cam2ip
 
 require (
 	github.com/abbot/go-http-auth v0.4.0
